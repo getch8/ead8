@@ -3,7 +3,7 @@ hi, i'm [Ebisa Dugo](https://portfolio-ead8.vercel.app/),computer science gradua
 <!-- i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
 
 
-  <img align="right" alt="GIF" src="code.jpg" width="500" height="320" />
+  <img align="right" alt="GIF" src="code.jpg" width="400" height="300" />
   
 - 💼 any freelance work? do reach, [email](mailto:eabisaadw@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
