@@ -37,12 +37,12 @@ Other        9 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-🚧 **my todoist stats:**
+<!-- 🚧 **my todoist stats:** -->
 <!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
+<!-- 🏆  8,004 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 301 tasks so far           
-⏳  Longest streak is 11 days
+⏳  Longest streak is 11 days -->
 <!-- TODO-IST:END -->
 
 
