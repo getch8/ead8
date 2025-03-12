@@ -1,7 +1,7 @@
 hi, i'm [Ebisa Dugo](https://portfolio-ead8.vercel.app/),computer science graduate with a passion for problem-solving through software development. I love building software that automates tasks and working with technologies like Next.js. I also prioritize clean code, system design, and delivering high-quality work. My goal is to be a passionate problem solver through technology.
 
 <!-- i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
-<code><img height="40" src="https://res.cloudinary.com/ds2bjtlo5/image/upload/v1741776602/dailydev_where_developers_suffer_together_sfvfog_fpxzuj.webp"></code>
+<code><img src="https://res.cloudinary.com/ds2bjtlo5/image/upload/v1741776602/dailydev_where_developers_suffer_together_sfvfog_fpxzuj.webp"></code>
 - 💼 any freelance work? do reach, [email](mailto:eabisaadw@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
